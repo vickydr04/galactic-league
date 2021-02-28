@@ -8,9 +8,12 @@ Inside project `root` directory run `npm install`. After all dependencies are in
 
 ### Libraries used
 
-[Material-UI](https://material-ui.com/) for the React UI framework
+[Material-UI](https://material-ui.com/) for the React UI framework.
+
 [Material-UI Data grid](https://material-ui.com/components/data-grid/) to display and filter API response.
+
 [Axios](https://github.com/axios/axios) to handle the API requests.
+
 [React Router](https://reactrouter.com/web/) to keep the UI sync with the URLs.
 
 
